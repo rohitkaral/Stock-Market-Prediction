@@ -1,7 +1,7 @@
 # Stock Market Price Prediction with Random Forest Regression
  
 ## Overview
-
+ 
 This Python script uses the Random Forest Regression algorithm to predict future stock prices. It fetches historical stock data from Yahoo Finance, preprocesses the data, trains a model, and makes predictions.
 
 **Disclaimer:** This code is for educational purposes only.  Stock market predictions are inherently uncertain, and this script should not be used for financial decision-making.  Past performance is not indicative of future results. Consult with a qualified financial advisor before making any investment decisions.
